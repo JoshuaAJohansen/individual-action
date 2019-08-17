@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Drawdown Solutions</title>
+</head>
+<body>
+	<h1>{{header}}</h1>
+	<p><a href="https://www.drawdown.org/">Drawdown</a> is the most comprehensive plan ever proposed to reverse global
+		warming.</p>
+	<p>Here you can <a href="/all">view the 100 solutions</a>, or <a href="/individual">view all solutions that apply
+		to individuals.</a>
+	</p>
+	<p>
+		This can act as a stepping point towards the most effective improvements as is known.
+		Keep in mind as the world changes these solutions will change. Lets work towards a
+		future that keeps a real time leaderboard of the most effective actions we can take
+		to make the world a better place.
+	</p>
+	<table>
+	 	<tr>
+			<th>Rank</th>
+			<th>Solution</th>
+			<th>Sector</th>
+			<th>Savings (BILLIONS US $)</th>
+		</tr>
+	 	{% for key, value in df.iterrows() %}
+	  	<tr>
+			<th>{{ value['Rank'] }}</th>
+			<th>{{ value['Solution'] }}</th>
+			<th>{{ value['Sector'] }}</th>
+			<th>{{ value['Savings (BILLIONS US $)'] }}</th>
+		</tr>
+		{% endfor %}
+	</table>
+</body>
+</html>

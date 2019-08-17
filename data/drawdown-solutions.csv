@@ -1,0 +1,84 @@
+Rank,Solution,Sector,TOTAL ATMOSPHERIC CO2-EQ REDUCTION (GT),Net Cost (BILLIONS US $),Savings (BILLIONS US $),Individual,organization,city
+1,Refrigerant Management,Materials,89.74,N/A,($902.77),1,1,1
+2,Wind Turbines (Onshore),Electricity Generation,84.6,"$1,225.37 ","$7,425.00 ",1,0,0
+3,Reduced Food Waste,Food,70.53,N/A,N/A,1,0,0
+4,Plant-Rich Diet,Food,66.11,N/A,N/A,1,0,0
+5,Tropical Forests,Land Use,61.23,N/A,N/A,0,0,0
+6,Educating Girls,Women and Girls,59.6,N/A,N/A,1,0,0
+7,Family Planning,Women and Girls,59.6,N/A,N/A,1,0,0
+8,Solar Farms,Electricity Generation,36.9,($80.60),"$5,023.84 ",0,0,0
+9,Silvopasture,Food,31.19,$41.59 ,$699.37 ,0,0,0
+10,Rooftop Solar,Electricity Generation,24.6,$453.14 ,"$3,457.63 ",1,0,0
+11,Regenerative Agriculture,Food,23.15,$57.22 ,"$1,928.10 ",0,0,0
+12,Temperate Forests,Land Use,22.61,N/A,N/A,0,0,0
+13,Peatlands,Land Use,21.57,N/A,N/A,0,0,0
+14,Tropical Staple Trees,Food,20.19,$120.07 ,$626.97 ,0,0,0
+15,Afforestation,Land Use,18.06,$29.44 ,$392.33 ,0,0,0
+16,Conservation Agriculture,Food,17.35,$37.53 ,"$2,119.07 ",0,0,0
+17,Tree Intercropping,Food,17.2,$146.99 ,$22.10 ,0,0,0
+18,Geothermal,Electricity Generation,16.6,($155.48),"$1,024.34 ",0,0,0
+19,Managed Grazing,Food,16.34,$50.48 ,$735.27 ,0,0,0
+20,Nuclear,Electricity Generation,16.09,$0.88 ,"$1,713.40 ",0,0,0
+21,Clean Cookstoves,Food,15.81,$72.16 ,$166.28 ,0,0,0
+22,Wind Turbines (Offshore),Electricity Generation,14.1,$545.30 ,$762.50 ,0,0,0
+23,Farmland Restoration,Food,14.08,$72.24 ,"$1,342.47 ",0,0,0
+24,Improved Rice Cultivation,Food,11.34,N/A,$519.06 ,0,0,0
+25,Concentrated Solar,Electricity Generation,10.9,"$1,319.70 ",$413.85 ,0,0,0
+26,Electric Vehicles,Transport,10.8,"$14,148.00 ","$9,726.40 ",1,0,0
+27,District Heating,Buildings and Cities,9.38,$457.10 ,"$3,543.50 ",0,0,0
+28,Multistrata Agroforestry,Food,9.28,$26.76 ,$709.75 ,0,0,0
+29,Wave and Tidal,Electricity Generation,9.2,$411.84 ,"($1,004.70)",0,0,0
+30,Methane Digesters (Large),Electricity Generation,8.4,$201.41 ,$148.83 ,0,0,0
+31,Insulation,Buildings and Cities,8.27,"$3,655.92 ","$2,513.33 ",1,0,0
+32,Ships,Transport,7.87,$915.93 ,$424.38 ,0,0,0
+33,LED Lighting (Household),Buildings and Cities,7.81,$323.52 ,"$1,729.54 ",1,0,0
+34,Biomass,Electricity Generation,7.5,$402.31 ,$519.35 ,0,0,0
+35,Bamboo,Land Use,7.22,$23.79 ,$264.80 ,0,0,0
+36,Alternative Cement,Materials,6.69,($273.90),N/A,0,0,0
+37,Mass Transit,Transport,6.57,N/A,"$2,379.73 ",1,0,0
+38,Forest Protection,Land Use,6.2,N/A,N/A,0,0,0
+39,Indigenous Peoples’ Land Management,Land Use,6.19,N/A,N/A,0,0,0
+40,Trucks,Transport,6.18,$543.54 ,"$2,781.63 ",0,0,0
+41,Solar Water,Electricity Generation,6.08,$2.99 ,$773.65 ,0,0,0
+42,Heat Pumps,Buildings and Cities,5.2,$118.71 ,"$1,546.66 ",0,0,0
+43,Airplanes,Transport,5.05,$662.42 ,"$3,187.80 ",0,0,0
+44,LED Lighting (Commercial),Buildings and Cities,5.04,($205.05),"$1,089.63 ",0,0,0
+45,Building Automation,Buildings and Cities,4.62,$68.12 ,$880.55 ,0,0,0
+46,Water Saving - Home,Materials,4.61,$72.44 ,"$1,800.12 ",1,0,0
+47,Bioplastic,Materials,4.3,$19.15 ,N/A,0,0,0
+48,In-Stream Hydro,Electricity Generation,4,$202.53 ,$568.36 ,0,0,0
+49,Cars,Transport,4,($598.69),"$1,761.72 ",0,0,0
+50,Cogeneration,Electricity Generation,3.97,$279.25 ,$566.93 ,0,0,0
+51,Perennial Biomass,Land Use,3.33,$77.94 ,$541.89 ,0,0,0
+52,Coastal Wetlands,Land Use,3.19,N/A,N/A,0,0,0
+53,System of Rice Intensification,Food,3.13,N/A,$677.83 ,0,0,0
+54,Walkable Cities,Buildings and Cities,2.92,N/A,"$3,278.24 ",1,0,0
+55,Household Recycling,Materials,2.77,$366.92 ,$71.13 ,1,0,0
+56,Industrial Recycling,Materials,2.77,$366.92 ,$71.13 ,0,0,0
+57,Smart Thermostats,Buildings and Cities,2.62,$74.16 ,$640.10 ,1,0,0
+58,Landfill Methane,Buildings and Cities,2.5,($1.82),$67.57 ,0,0,0
+59,Bike Infrastructure,Buildings and Cities,2.31,"($2,026.97)",$400.47 ,1,0,0
+60,Composting,Food,2.28,($63.72),($60.82),1,0,0
+61,Smart Glass,Buildings and Cities,2.19,$932.30 ,$325.10 ,0,0,0
+62,Women Smallholders,Women and Girls,2.06,N/A,$87.60 ,0,0,0
+63,Telepresence,Transport,1.99,$127.72 ,"$1,310.59 ",1,0,0
+64,Methane Digesters (Small),Electricity Generation,1.9,$15.50 ,$13.90 ,0,0,0
+65,Nutrient Management,Food,1.81,N/A,$102.32 ,0,0,0
+66,High-speed Rail,Transport,1.52,"$1,038.42 ",$368.10 ,0,0,0
+67,Farmland Irrigation,Food,1.33,$216.16 ,$429.67 ,0,0,0
+68,Waste-to-Energy,Electricity Generation,1.1,$36.00 ,$19.82 ,0,0,0
+69,Electric Bikes,Transport,0.96,$106.75 ,$226.07 ,1,0,0
+70,Recycled Paper,Materials,0.9,$573.48 ,N/A,0,0,0
+71,Water Distribution,Buildings and Cities,0.87,$137.37 ,$903.11 ,0,0,0
+72,Biochar,Food,0.81,N/A,N/A,0,0,0
+73,Green Roofs,Buildings and Cities,0.77,"$1,393.29 ",$988.46 ,1,0,0
+74,Trains,Transport,0.52,$808.64 ,$313.86 ,1,0,0
+75,Ridesharing,Transport,0.32,N/A,$185.56 ,1,0,0
+76,Micro Wind,Electricity Generation,0.2,$36.12 ,$19.90 ,0,0,0
+77,Energy Storage (Distributed),Electricity Generation,N/A,N/A,N/A,0,0,0
+77,Energy Storage (Utilities),Electricity Generation,N/A,N/A,N/A,0,0,0
+77,Grid Flexibility,Electricity Generation,N/A,N/A,N/A,0,0,0
+78,Microgrids,Electricity Generation,N/A,N/A,N/A,0,0,0
+79,Net Zero Buildings,Buildings and Cities,N/A,N/A,N/A,1,0,0
+80,Retrofitting,Buildings and Cities,N/A,N/A,N/A,0,0,0
+,,,,,,,,
